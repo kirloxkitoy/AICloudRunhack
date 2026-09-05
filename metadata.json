@@ -1,0 +1,6 @@
+{
+  "name": "Gemini Journal & Voice Reflections",
+  "description": "User-authenticated AI journal and audio logger with Gemini 3.6 Flash and Cloud Firestore user isolation.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
